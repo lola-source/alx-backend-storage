@@ -11,4 +11,4 @@ BEGIN
 	END IF;
 	RETURN result;
 END $$
-DELIMITER ;~
+DELIMITER ;
